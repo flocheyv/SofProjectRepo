@@ -9,7 +9,7 @@ Our own StackOverflow provides some nice features such as :
 
  - TODO
 
-Please read our wiki for further informations. [SofProject wiki](https://github.com/flocheyv/SofProjectRepo/wiki).
+Please read our wiki for further informations. [SofProject wiki](https://github.com/flocheyv/SofProjectRepo/wiki/SofProject).
 
 
 ## License ##
