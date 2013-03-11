@@ -49,7 +49,7 @@
 			<div class="generalMenu">
 				<table class="globalTableMenu"><tr>
 					<td>
-						<div class="logo"><a href="/SofProject"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></a></div>
+						<div class="logo"><a href="/"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></a></div>
 					</td>
 					<td>
 						<div class="menu">
