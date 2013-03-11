@@ -49,7 +49,7 @@
 			<div class="generalMenu">
 				<table class="globalTableMenu"><tr>
 					<td>
-						<div class="logo"><g:link controller="question" action="list"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></g:link></div>
+						<div class="logo"><a class="home" href="${createLink(uri: '/')}"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></a></div>
 					</td>
 					<td>
 						<div class="menu">
