@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="PC-de-florian" id="0" name="FormatterServiceTests" package="com.isima.sof" tests="1" time="0.95" timestamp="2013-03-11T20:50:37">
+      <properties />
+
+      <testcase classname="com.isima.sof.FormatterServiceTests" name="testNumberFormat" time="0.225" />
+
+      <system-out><![CDATA[--Output from testNumberFormat--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testNumberFormat--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="PC-de-florian" id="1" name="PostServiceTests" package="com.isima.sof" tests="1" time="3.425" timestamp="2013-03-11T20:50:38">
+      <properties />
+
+      <testcase classname="com.isima.sof.PostServiceTests" name="testIncrementation" time="3.21" />
+
+      <system-out><![CDATA[--Output from testIncrementation--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testIncrementation--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="PC-de-florian" id="2" name="QuestionTests" package="com.isima.sof" tests="1" time="0.955" timestamp="2013-03-11T20:50:41">
+      <properties />
+
+      <testcase classname="com.isima.sof.QuestionTests" name="testQuestionWithAnswers" time="0.945" />
+
+      <system-out><![CDATA[--Output from testQuestionWithAnswers--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testQuestionWithAnswers--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

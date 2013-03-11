@@ -1,0 +1,10 @@
+Testsuite: com.isima.sof.FormatterServiceTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,95 sec
+------------- Standard Output ---------------
+--Output from testNumberFormat--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testNumberFormat--
+------------- ---------------- ---------------
+
+Testcase: testNumberFormat took 0,225 sec

@@ -1,0 +1,10 @@
+Testsuite: com.isima.sof.PostServiceTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 3,425 sec
+------------- Standard Output ---------------
+--Output from testIncrementation--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testIncrementation--
+------------- ---------------- ---------------
+
+Testcase: testIncrementation took 3,21 sec

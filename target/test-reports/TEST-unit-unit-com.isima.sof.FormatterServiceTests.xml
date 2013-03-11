@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="PC-de-florian" name="com.isima.sof.FormatterServiceTests" tests="1" time="0.95" timestamp="2013-03-11T20:50:37">
+  <properties />
+  <testcase classname="com.isima.sof.FormatterServiceTests" name="testNumberFormat" time="0.225" />
+  <system-out><![CDATA[--Output from testNumberFormat--
+]]></system-out>
+  <system-err><![CDATA[--Output from testNumberFormat--
+]]></system-err>
+</testsuite>

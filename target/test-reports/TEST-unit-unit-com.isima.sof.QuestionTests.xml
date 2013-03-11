@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="PC-de-florian" name="com.isima.sof.QuestionTests" tests="1" time="0.955" timestamp="2013-03-11T20:50:41">
+  <properties />
+  <testcase classname="com.isima.sof.QuestionTests" name="testQuestionWithAnswers" time="0.945" />
+  <system-out><![CDATA[--Output from testQuestionWithAnswers--
+]]></system-out>
+  <system-err><![CDATA[--Output from testQuestionWithAnswers--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="PC-de-florian" name="com.isima.sof.PostServiceTests" tests="1" time="3.425" timestamp="2013-03-11T20:50:38">
+  <properties />
+  <testcase classname="com.isima.sof.PostServiceTests" name="testIncrementation" time="3.21" />
+  <system-out><![CDATA[--Output from testIncrementation--
+]]></system-out>
+  <system-err><![CDATA[--Output from testIncrementation--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+Testsuite: com.isima.sof.QuestionTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,955 sec
+------------- Standard Output ---------------
+--Output from testQuestionWithAnswers--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testQuestionWithAnswers--
+------------- ---------------- ---------------
+
+Testcase: testQuestionWithAnswers took 0,945 sec
