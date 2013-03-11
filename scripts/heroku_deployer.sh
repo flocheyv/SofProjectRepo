@@ -66,4 +66,4 @@ heroku git:remote -a gentle-fortress-9035
 
 #Finally, we can deploy using Git
 #Heroku Git-based deployment (https://devcenter.heroku.com/articles/git)
-yes | git push heroku master
+yes | git push -f heroku master
