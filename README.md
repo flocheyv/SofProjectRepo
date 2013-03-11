@@ -26,6 +26,7 @@ There are many mock datas (users, questions, answers and so on) so you can try i
 You can log in with a user profile (me/password) or with an admin profile (flo/admin) to see everything and having more possibilities.
 
 Otherwise you can try our application on our PaaS host Heroku. [SofProject Heroku](https://github.com/flocheyv/).
+You can also see our project on [BuildHive CI](https://github.com/flocheyv/).
 
 
 ## License ##
