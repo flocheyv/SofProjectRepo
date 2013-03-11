@@ -15,7 +15,7 @@ Our own StackOverflow provides some nice features such as :
  - Design effort (looks like real StackOverflow)
  
 
-Please read our wiki for further informations. [SofProject wiki](https://github.com/flocheyv/SofProjectRepo/wiki/SofProject).
+Of course this list is non-exhaustive. Please read our wiki for further informations. [SofProject wiki](https://github.com/flocheyv/SofProjectRepo/wiki/SofProject).
 
 
 ## How to use ##
