@@ -1,4 +1,4 @@
-## SofProjectRepo ##
+## SofProject (StackOverflow-like project) ##
 
 The purpose of our third-year web-development project at ISIMA is to implement a StackOverflow-like which is a Question & Answer collaborative platform.
 
