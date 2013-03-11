@@ -37,8 +37,8 @@
 								
 								<div style="margin-left: 85%">
 									<li><a class="home" href="${createLink(uri: '/')}"><img src="${resource(dir: 'images/skin', file: 'house.png')}" alt="Home"/></a></li>
-									<li><a href="/SofProject/?lang=en"><g:img dir="images" file="uk_flag.png"/></a></li>
-									<li><a href="/SofProject/?lang=fr"><g:img dir="images" file="french_flag.gif"/></a></li>
+									<li><g:link controller="question" action="list" params="[lang: 'en']"><g:img dir="images" file="uk_flag.png"/></g:link></li>
+									<li><g:link controller="question" action="list" params="[lang: 'fr']"><g:img dir="images" file="french_flag.gif"/></g:link></li>
 								</div>
 							</ul>
 						</div>
@@ -49,7 +49,7 @@
 			<div class="generalMenu">
 				<table class="globalTableMenu"><tr>
 					<td>
-						<div class="logo"><a href="/"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></a></div>
+						<div class="logo"><g:link controller="question" action="list"><img src="${resource(dir: 'images', file: 'logo.jpg')}" alt="Logo"/></g:link></div>
 					</td>
 					<td>
 						<div class="menu">
