@@ -24,7 +24,7 @@ You can find all our source code here on GitHub so you just have to download all
 import it in Groovy/Grails Tool Suite. Refresh dependencies if necessary and you can run our application
 in your own browser.
 
-There are many mock datas (users, questions, answers and so on) so you can try it faster.
+There are many mock datas (users, questions, answers, tags and so on) so you can easily use and see our application features and try anything faster.
 You can log in with a user profile (me/password) or with an admin profile (flo/admin) to see everything and having more possibilities.
 
 Otherwise you can try our application on our PaaS host Heroku. [SofProject Heroku](https://github.com/flocheyv/).
