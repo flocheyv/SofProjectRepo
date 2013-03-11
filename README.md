@@ -10,7 +10,9 @@ Our own StackOverflow provides some nice features such as :
  - Question & Answers with upvote/downvote, comment and edit possibility for each
  - Questions are tagged and you can display them by tags, views, votes and newest
  - Gamification rules : users can earn badges according to their reputation points
+ - You can see all tags and badges on corresponding pages
  - Users can fill their profile and choose an avatar
+ - Design effort (looks like real StackOverflow)
  
 
 Please read our wiki for further informations. [SofProject wiki](https://github.com/flocheyv/SofProjectRepo/wiki/SofProject).
