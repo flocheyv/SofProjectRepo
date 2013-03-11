@@ -27,8 +27,8 @@ in your own browser.
 There are many mock datas (users, questions, answers, tags and so on) so you can easily use and see our application features and try anything faster.
 You can log in with a user profile (me/password) or with an admin profile (flo/admin) to see everything and having more possibilities.
 
-Otherwise you can try our application on our PaaS host Heroku. [SofProject Heroku](https://github.com/flocheyv/).
-You can also see our project on [BuildHive CI](https://github.com/flocheyv/).
+Otherwise you can try our application on our PaaS host Heroku. [SofProject Heroku](http://sof-project.herokuapp.com).
+You can also see our project on [BuildHive CI](https://buildhive.cloudbees.com/job/flocheyv/job/SofProjectRepo/).
 
 
 ## License ##
