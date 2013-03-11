@@ -6,7 +6,7 @@ The purpose of our third-year web-development project at ISIMA is to implement a
 ## A quick tour of the features ##
 
 Our own StackOverflow provides some nice features such as :
- - User connection feature (admin and user handling)
+ - User connection feature (admin and user roles are handle)
  - Question & Answers with upvote/downvote, comment and edit possibility for each
  - Questions are tagged and you can display them by tags, views, votes and newest
  - Gamification rules : users can earn badges according to their reputation points
